@@ -44,7 +44,7 @@ function estructurar() {
   }
 }
 
-numerar();
+numerar(); //lol :v
 
 function numerar() {
   for (i = 1; i < 366; i++) {
